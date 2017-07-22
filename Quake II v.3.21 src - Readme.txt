@@ -1,0 +1,42 @@
+
+===========================================================================================
+
+Filename: Quake II v.3.21 Source Code
+
+===========================================================================================
+
+Author                  : The SIN Raven                                                   
+Version Date            : 16.11.2003
+Email Address           : thesinraven@netvisao.pt
+Home Page		: www.markshan.com/thesinraven/default.asp
+
+===========================================================================================
+
+Description: This is the full source code used to compile Quake II v.3.21.
+             Basicly this is ID Software Quake II Source code v.3.21.
+             Also Rogue, Xatrix, and Zaero source code are included.
+             
+===========================================================================================
+
+Installation: Just extract the zip wherever you whant.
+              	      
+===========================================================================================
+
+Notes: This released will improve your game play, and some graphic bugs.
+       For better descriction see the 3.21_Changes.txt.
+       Really works better then v3.20.
+       After compiling, you will need to pacth Quake II to v.3.20 and Zaero to 
+       v.1.1.
+       You will need Microsoft Visual C++ 6.0 to be able to compile this source
+       code.
+       If you like this, dont give me any credict for it, the credict ïs all
+       from ID Software that released this fantastic game, and also the source
+       code.
+
+===========================================================================================
+
+Enjoy it.
+
+The SIN Raven
+
+===========================================================================================
